@@ -1,6 +1,6 @@
 <h1 align="center" style="border=none">👋 Olá! Seja Bem-vindo!</h1>
 
-<img align="right" alt="aladdin" height="120" width="200" src="https://kingdomofmagic-hbb.weebly.com/uploads/2/5/7/3/25732493/722993_orig.gif"/>
+<img align="right" alt="aladdin" height="120" width="200" src="https://giffiles.alphacoders.com/756/75682.gif"/>
 
 <div align="left" style="display:inline:block">
   
