@@ -1,12 +1,13 @@
 <h1 align="center" style="border=none">👋 Olá! Seja Bem-vindo!</h1>
 
-<img align="right" alt="aladdin" height="120" width="200" src="https://giffiles.alphacoders.com/756/75682.gif"/>
+<img align="right" alt="gifz" height="220" width="100em" src="https://giffiles.alphacoders.com/756/75682.gif"/> 
 
 <div align="left" style="display:inline:block">
   
   ### Sobre mim
 
-  <p align="left">Meu nome é Carlos Henrique, sou um desenvolvedor front-end em desenvolvimento. Graduando em Análise e Desenvolvimento de Sistemas, busco sempre misturar diversão e comprometimento em meus projetos. Confira abaixo um pouco do meu trabalho .</p>
+  <p align="left">Meu nome é Carlos Henrique, sou um desenvolvedor front-end em desenvolvimento. Graduando em Análise e Desenvolvimento de Sistemas, busco sempre misturar diversão e comprometimento em meus projetos, pois acredito que somos mais produtivos quando estamos nos divertindo.</p>
+  <p align="left">Acompanhe minha jornada de evolução, confira abaixo meu trabalho.</p>
 </div>
 
 ## 📞Contatos
