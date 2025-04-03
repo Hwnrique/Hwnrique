@@ -1,6 +1,6 @@
 <h1 align="center" style="border=none">👋 Olá! Seja Bem-vindo!</h1>
 
-<img align="right" alt="gifz" height="220" width="100em" src="https://giffiles.alphacoders.com/756/75682.gif"/> 
+<img align="right" alt="gifz" height="200" width="100em" src="https://giffiles.alphacoders.com/756/75682.gif"/> 
 
 <div align="left" style="display:inline:block">
   
