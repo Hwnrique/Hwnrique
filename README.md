@@ -19,13 +19,20 @@
 
 ## 🖥Linguagens
 
-<div style="display: inline:block"><br> 
+<div style="display: inline:block">
 <img align="center" alt:"Hwnrique-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg"/>
 <img align="center" alt:"Hwnrique-Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg"/>
 <img align="center" alt:"Hwnrique-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"/>
 </div>
 
-----
+## 📊Outras habilidades
+
+<div style="display: inline:block">
+<img align="center" alt:"Hwnrique-Html" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img align="center" alt:"Hwnrique-Css" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
+</div>
+
+---
 
 <div align="center">
   <a href="https://github.com/Hwnrique"><a/>
