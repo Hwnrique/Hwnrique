@@ -37,7 +37,7 @@
 
 <div align="center">
   <a href="https://github.com/Hwnrique"><a/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Hwnrique"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Hwnrique&theme=holi"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hwnrique&layout=compact&langs=count&theme=holi"/>
 </div>
 
