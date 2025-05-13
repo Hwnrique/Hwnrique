@@ -35,10 +35,9 @@
 
 ---
 
-<div align="center">
-  <a href="https://github.com/Hwnrique"><a/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hwnrique&show_icons=true&theme=holi&include_all_commits=true&count_private=true&rank_icon=github"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hwnrique&layout=compact&langs=count&theme=holi"/>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hwnrique&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hwnrique&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="180" alt="languages graph"  />
 </div>
 
 <div align="center">
