@@ -6,7 +6,7 @@
   
   ### Sobre mim
 
-  <p align="left">Meu nome é Carlos Henrique, sou um desenvolvedor front-end em desenvolvimento. Graduando em Análise e Desenvolvimento de Sistemas, busco sempre misturar diversão e comprometimento em meus projetos, pois acredito que somos mais produtivos quando estamos nos divertindo.</p>
+  <p align="left">Meu nome é Carlos Henrique, sou um estudante de programação graduando em Análise e Desenvolvimento de Sistemas. Busco sempre misturar diversão e comprometimento em meus projetos, pois acredito que somos mais produtivos quando estamos nos divertindo.</p>
   <p align="left">Acompanhe minha jornada de evolução, confira abaixo meu trabalho.</p>
 </div>
 
