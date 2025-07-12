@@ -10,7 +10,7 @@
   <p align="left">Acompanhe minha jornada de evolução, confira abaixo meu trabalho.</p>
 </div>
 
-## 📞Contatos
+# 📱 Contatos
 
 <div>
   <a href = "mailto:carloshwnrique221@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" target="_blank"></a>
@@ -18,23 +18,49 @@
   <a href="https://www.instagram.com/hxwrique?igsh=MWZ5NnAyajRsdnh6dg==" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
-## 🖥Linguagens
+# 🖥️ Linguagens
 
 <div style="display: inline:block">
-<img align="center" alt:"Hwnrique-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg"/>
-<img align="center" alt:"Hwnrique-Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg"/>
-<img align="center" alt:"Hwnrique-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"/>
-<img align="center" alt:"Hwnrique-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"/>
+<img align="center" alt:"Hwnrique-Html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img align="center" alt:"Hwnrique-Css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img align="center" alt:"Hwnrique-JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img align="center" alt:"Hwnrique-TS" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 
 </div>
 
-## 📊Outras habilidades
+#  📚 Bibliotecas e Frameworks
 
 <div style="display: inline:block">
-<img align="center" alt:"Hwnrique-Html" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img align="center" alt:"Hwnrique-Css" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
+<img align="center" alt:"Hwnrique-Boots" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img align="center" alt:"Hwnrique-React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img align="center" alt:"Hwnrique-Node" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img align="center" alt:"Hwnrique-Vite" src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E"/>
+</div>
+
+#  🧠 Outros Conhecimentos
+
+<div style="display: inline:block">
+<img align="center" alt:"Hwnrique-Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img align="center" alt:"Hwnrique-Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+<img align="center" alt:"Hwnrique-Photo" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
+<img align="center" alt:"Hwnrique-MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 
 ---
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Hwnrique/Hwnrique/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Hwnrique/Hwnrique/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/Hwnrique/Hwnrique/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 
