@@ -49,6 +49,12 @@
 
 ---
 
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hwnrique&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=false" height="180" alt="languages graph"  />
+</div>
+
+---
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
