@@ -45,6 +45,7 @@
 <img align="center" alt:"Hwnrique-Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 <img align="center" alt:"Hwnrique-Photo" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
 <img align="center" alt:"Hwnrique-MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img align="center" alt:"Hwnrique-PostSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </div>
 
 ---
