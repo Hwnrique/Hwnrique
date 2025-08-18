@@ -6,7 +6,7 @@
   
   ### Sobre mim
 
-  <p align="left">Meu nome é Carlos Henrique, sou um estudante graduando em Análise e Desenvolvimento de Sistemas. Trabalho atualmente como Auxiliar de Informática mas tenho a ambição de me tornar um programador Front-End. Por aqui eu posto meus projetos pessoais e progresso nos estudos.</p>
+  <p align="left">Meu nome é Carlos Henrique, sou um estudante graduando em Análise e Desenvolvimento de Sistemas. Trabalho atualmente como Auxiliar de Informática e tenho a ambição de me tornar um programador Front-End. Por aqui eu posto meus projetos pessoais e progresso nos estudos.</p>
   <p align="left">Acompanhe minha jornada de evolução, confira abaixo meu trabalho.</p>
 </div>
 
