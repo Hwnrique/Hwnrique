@@ -1,13 +1,9 @@
 <h1 align="center" style="border=none">👋 Olá! Seja Bem-vindo!</h1>
 
-<img align="right" alt="gifz" height="200" width="100em" src="https://giffiles.alphacoders.com/756/75682.gif"/> 
-
 <div align="left" style="display:inline:block">
-  
-  ### Sobre mim
 
-  <p align="left">Meu nome é Carlos Henrique, sou um estudante graduando em Análise e Desenvolvimento de Sistemas. Trabalho atualmente como Auxiliar de Informática e tenho a ambição de me tornar um programador Front-End. Por aqui eu posto meus projetos pessoais e progresso nos estudos.</p>
-  <p align="left">Acompanhe minha jornada de evolução, confira abaixo meu trabalho.</p>
+  <h3 align="center">Meu nome é Carlos Henrique, sou um estudante graduando em Análise e Desenvolvimento de Sistemas. Trabalho atualmente como Auxiliar de Informática e tenho a ambição de me tornar um programador Front-End. Por aqui eu posto meus projetos pessoais e progresso nos estudos.</h3>
+  <h4 align="center">Acompanhe minha jornada de evolução, confira abaixo meu trabalho.</h4>
 </div>
 
 # 📱 Contatos
