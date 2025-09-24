@@ -50,7 +50,7 @@
 ---
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hwnrique&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=algolia&hide_border=false" width="200%" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hwnrique&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=20&theme=algolia&hide_border=false" width="200%" height="180" alt="languages graph"  />
 </div>
 
 ---
