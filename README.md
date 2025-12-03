@@ -21,6 +21,6 @@
 # 🌐 Conexões
 
 [![Gmail](https://img.shields.io/badge/-Gmail-%23FFFFFF?style=for-the-badge&logo=gmail&logoColor=blue)](mailto:carloshwnrique221@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%23114477?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/carlos-henrique-292397305)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%23114477?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-henrique-292397305/)
 [![Instagram](https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=blue)](https://www.instagram.com/hxwrique?igsh=MWZ5NnAyajRsdnh6dg==)
 
