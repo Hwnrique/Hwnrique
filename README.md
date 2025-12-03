@@ -6,7 +6,7 @@
   <p align="left">Acompanhe minha jornada de evolução, confira abaixo meu trabalho.</p>
 </div>
 
-# 🖥️ Principais habilidades
+# 🖥️ Habilidades
 
 <div style="display: inline:block">
 <img align="center" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript"/>
