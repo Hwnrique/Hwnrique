@@ -1,7 +1,7 @@
 <h1 align="center" style="border=none">👋 Olá! Seja Bem-vindo!</h1>
 
 > "Meu nome é Carlos Henrique, sou um estudante graduando em Análise e Desenvolvimento de Sistemas.<br>
-> Trabalho atualmente como Auxiliar de Informática e tenho a ambição de me tornar um programador Front-End.
+> Trabalho atualmente como Auxiliar de Informática e tenho a ambição de me tornar um programador FullStack.
 > Por aqui eu posto meus projetos pessoais e progresso nos estudos"
 
 ---
