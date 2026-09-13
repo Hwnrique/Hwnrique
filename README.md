@@ -1,10 +1,21 @@
-<h1 align="center" style="border=none">👋 Olá! Seja Bem-vindo!</h1>
+<div align="center">
+  <br><br>
+  <h1>Olá, eu sou Carlos Henrique! 👋</h1>
+  <p><strong>Analista de Sistemas | Desenvolvedor Full-Stack</strong></p>
+</div>
 
-> "Meu nome é Carlos Henrique, sou um estudante graduando em Análise e Desenvolvimento de Sistemas.<br>
-> Trabalho atualmente como Auxiliar de Informática e tenho a ambição de me tornar um programador FullStack.
-> Por aqui eu posto meus projetos pessoais e progresso nos estudos"
+<hr>
 
----
+## Sobre Mim
+
+Olá! Sou Analista de Sistemas apaixonado pelo desenvolvimento de software moderno. Gosto de misturar criatividade e resolver soluções que aliam eficiência, legibilidade e entrega de resultados.
+
+-  **Formação:** Análise e Desenvolvimento de Sistemas
+-  **Foco Atual:** Desenvolvimento Fullstack utlizando TypeScript, React e Banco de dados (MongoDB e PostgreeSQL)**
+-  **Áreas de Interesse:** Desenvolvimento Fullstack, Arquitetura de Software, Sistemas Web, Integração Hardware/Software.
+-  **Idiomas:** Português (Nativo) e Inglês Técnico
+
+<hr>
 
 ## 🖥️ Habilidades
 
@@ -22,6 +33,6 @@
 ## 🌐 Conexões
 
 [![Gmail](https://img.shields.io/badge/-Gmail-%23FFFFFF?style=for-the-badge&logo=gmail&logoColor=blue)](mailto:carloshwnrique221@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%23114477?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-henrique-292397305/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%23114477?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/carloshenrique-jrdev)
 [![Instagram](https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=blue)](https://www.instagram.com/hxwrique?igsh=MWZ5NnAyajRsdnh6dg==)
 
