@@ -10,10 +10,10 @@
 
 Olá! Sou Analista de Sistemas apaixonado pelo desenvolvimento de software moderno. Gosto de misturar criatividade e resolver soluções que aliam eficiência, legibilidade e entrega de resultados.
 
--  **Formação:** Análise e Desenvolvimento de Sistemas
--  **Foco Atual:** Desenvolvimento Fullstack utlizando TypeScript, React e Banco de dados (MongoDB e PostgreeSQL)**
+-  **Formação:** Análise e Desenvolvimento de Sistemas.
+-  **Foco Atual:** Desenvolvimento Fullstack utlizando TypeScript, React e Banco de dados (MongoDB e PostgreeSQL).
 -  **Áreas de Interesse:** Desenvolvimento Fullstack, Arquitetura de Software, Sistemas Web, Integração Hardware/Software.
--  **Idiomas:** Português (Nativo) e Inglês Técnico
+-  **Idiomas:** Português (Nativo) e Inglês Técnico.
 
 <hr>
 
